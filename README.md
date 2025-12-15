@@ -1,3 +1,4 @@
 # github_test
-github test
-깃헙 포크&클론 테스트중입니다.
+
+SeSAC
+- AI를 활용한 반도체 공정/장비 제어 SW 개발자 양성과정
